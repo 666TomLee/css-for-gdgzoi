@@ -1,4 +1,4 @@
-@-moz-document url-prefix("http://www.gdgzoi.com/") {
+@-moz-document url-prefix("http://www.gdgzoi.com/"), url-prefix("http://gdgzoi.com/") {
 @-webkit-keyframes fadeInUp {
     0% {
         opacity:0;
